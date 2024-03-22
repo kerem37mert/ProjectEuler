@@ -14,4 +14,6 @@ add_executable(ProjectEuler main.c
         problem-3.cpp
         problem-3.c
         problem-4.c
-        problem-4.c)
+        problem-4.c
+        problem-5.c
+)
